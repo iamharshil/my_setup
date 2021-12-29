@@ -16,7 +16,7 @@
 - [EXA](https://the.exa.website/) - Exa is modern ls command with good color scheme.
 ### NVIM
 - I am using lot of plugins with vim.
-- My init.vim - [init.vim]().
+- My init.vim - [init.vim](https://github.com/iamharshil/my_setup/blob/main/init.vim).
     
 -------
 **SO that's my work setup.**
